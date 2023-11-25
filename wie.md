@@ -5,9 +5,11 @@ title: Wie zijn wij?
 
 # Wie en waar zijn wij?
 
+Wij zijn een groep enthousiastelingen die zowel op locatie (in Delft en Scheveningen) als online aan de slag gaan. Als je ergens technisch mee in de knoop zit en het gefixt wilt hebben, laat het ons gewoon weten!
+
 <div id="contact">
   <div class="contactContent">
-    <p class="intro">Wij zijn een groep enthousiastelingen die zowel op locatie (in Delft en Scheveningen) als online aan de slag gaan. Als je ergens technisch mee in de knoop zit en het gefixt wilt hebben, laat het ons gewoon weten!</p>
+    <p class="intro"></p>
   </div>
   <form action="https://formspree.io/f/mwkddkgq" method="POST">
     <label for="name">Naam</label>
