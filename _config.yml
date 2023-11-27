@@ -1,7 +1,7 @@
 title: Micro Repair Café
 description: Jouw apparaat, onze missie - een groenere toekomst!
 
-url: https://microrepaircafe.nl
+url: https://microrepaircafe.nl/waarom/
 paginate_path: "content/page:num/"
 permalink: content/:title/
 
