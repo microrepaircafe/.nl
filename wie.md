@@ -7,7 +7,7 @@ title: Wie zijn wij?
 
 Hey, bij het Micro Repair Café zijn we jouw go-to crew voor flexibele en persoonlijke reparaties. We werken op afspraak en als de reparatie wat langer duurt, no worries! We maken ook dan een gedetailleerd verslag. 
 
-Of het nu een knallende stereo of een dwarse blender is, we nemen de tijd om het goed te doen. Ons team van enthousiastelingen staat voor je klaar, zowel op locatie (in Delft en Scheveningen) als online. Dus, als je technisch in de knoop zit en iets gefixt wilt hebben, laat het ons gewoon weten!
+Of het nu een knallende stereo of een dwarse blender is, we nemen de tijd om het goed te doen. Ons team van enthousiastelingen staat voor je klaar, zowel op locatie (in Delft en Scheveningen) als online. Dus, als er iets technisch in de knoop zit en iets gefixt wilt hebben, laat het ons gewoon weten!
 
 <div id="contact">
   <div class="contactContent">
